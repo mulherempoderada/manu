@@ -4,17 +4,55 @@ padding:0;
 }
 
 .cabecalho{
-  background-color: blueviolet;
+  background-color: rgb(43, 46, 226);
   color: rgb(0, 0, 0);
   display: flex;
   justify-content: space-around;
   }
 
-.cabecario-imagem { 
+.cabecalho-imagem { 
   font-size: 60px;
   width: 20%;
 }
 
 .cabecalholistaItem{
   display: inline-block;
+  margin: 0 16px;
+  padding: 24px 0;
 }
+
+.sobre-imagem{
+  width: 25%;
+}
+
+.sobre{
+  background-image:url(img/volei\ 1.png);
+  color:#030503;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 0;
+  height: 80vh;
+}
+
+.sobre-conteudo{
+  width: 35%;
+}
+
+.sobre-titulo{
+  padding: 24px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
