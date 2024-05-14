@@ -5,7 +5,7 @@ padding:0;
 
 .cabecalho{
   background-color: rgb(43, 46, 226);
-  color: rgb(0, 0, 0);
+  color: rgb(211, 202, 202);
   display: flex;
   justify-content: space-around;
   }
@@ -41,7 +41,24 @@ padding:0;
 
 .sobre-titulo{
   padding: 24px 0;
+
+
+
 }
+
+.membro-ícone {
+width:24px;
+}
+
+.membro-div
+{ text-align: center;
+}
+.membro-titulo
+{
+text-align: center;
+padding: 150px 0;
+}
+
 
 
 
